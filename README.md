@@ -2,6 +2,6 @@
 - 👀 I’m interested in software development, graphic design, and innovative tech solutions.
 - 🌱 I’m currently learning full-stack development, especially React, Node.js, and cloud computing.
 - 💞️ I’m looking to collaborate on web development projects, open-source contributions, and any exciting technology ventures.
-- 📫 How to reach me: You can reach me via email at sandarumalshan96@gmail.com or on LinkedIn [LinkedIn Profile][(https://linkedin.com/in/sandaru-malshan](https://www.linkedin.com/in/sandarumalshan/))
+- 📫 How to reach me: You can reach me via email at sandarumalshan96@gmail.com or on LinkedIn [(https://linkedin.com/in/sandaru-malshan](https://www.linkedin.com/in/sandarumalshan/))
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m also a huge fan of sci-fi movies and enjoy learning about space exploration.
