@@ -19,26 +19,13 @@
 
 ---
 
-
 ### 🛠️ Tech Stack  
-<p align="center">
-  🚀 Skilled in **Frontend, Backend, Database, and Dev Tools** for building modern web applications.
-</p>
 
 <p align="center">
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,figma,ps" alt="Frontend Skills" /><br/>
-
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Backend Skills" /><br/>
-
-  <!-- Database -->
-  <img src="https://skillicons.dev/icons?i=mysql" alt="Database Skills" /><br/>
-
-  <!-- Tools & Others -->
-  <img src="https://skillicons.dev/icons?i=git,github,java,python" alt="Tools & Others" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,js,ts,html,css,tailwind,figma,git,github,java,python,mysql" />
 </p>
 
+---
 
 ### 📊 GitHub Stats  
 
