@@ -21,6 +21,9 @@
 
 
 ### 🛠️ Tech Stack  
+<p align="center">
+  🚀 Skilled in **Frontend, Backend, Database, and Dev Tools** for building modern web applications.
+</p>
 
 <p align="center">
   <!-- Frontend -->
