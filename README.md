@@ -27,13 +27,13 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,figma,ps" alt="Frontend Skills" /><br/>
 
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Skills" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Backend Skills" /><br/>
 
   <!-- Database -->
   <img src="https://skillicons.dev/icons?i=mysql" alt="Database Skills" /><br/>
 
   <!-- Tools & Others -->
-  <img src="https://skillicons.dev/icons?i=git,github,java,python,linux,aws" alt="Tools & Others" />
+  <img src="https://skillicons.dev/icons?i=git,github,java,python" alt="Tools & Others" />
 </p>
 
 
