@@ -19,13 +19,23 @@
 
 ---
 
+
 ### 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,js,ts,html,css,tailwind,figma,git,github,java,python,mysql,linux,aws" />
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,figma,ps" alt="Frontend Skills" /><br/>
+
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Skills" /><br/>
+
+  <!-- Database -->
+  <img src="https://skillicons.dev/icons?i=mysql" alt="Database Skills" /><br/>
+
+  <!-- Tools & Others -->
+  <img src="https://skillicons.dev/icons?i=git,github,java,python,linux,aws" alt="Tools & Others" />
 </p>
 
----
 
 ### 📊 GitHub Stats  
 
