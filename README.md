@@ -112,30 +112,11 @@ const learning = {
 # 📬 Connect With Me
 
 🌐 Portfolio – Coming Soon
-💼 LinkedIn – Add Your Link
-📧 Email – Add Your Email
+💼 LinkedIn – Sandaru Malshan
+📧 Email – sandarumalshan96@gmail.com
 
 ---
 
 ⭐ **Thanks for visiting my profile!**
 
-```
-
----
-
-## ⚡ How to Activate This (Important)
-
-1️⃣ Create a **new repository** named exactly:
-
-```
-
-SandaruMalshan96
-
-```
-
-2️⃣ Add a file:
-
-```
-
-README.md
 
