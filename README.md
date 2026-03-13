@@ -1,88 +1,141 @@
-# 👋 Hey there, I'm Sandaru Malshan  
+
+# 👋 Hi, I'm Sandaru Malshan
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=600&lines=🎨+UI%2FUX+%26+Frontend+Developer;✨+Design+Systems+Specialist;🚀+Building+Modern+Web+Interfaces;💡+Pixel-Perfect+%26+Accessible+Designs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Web+Developer;Frontend+Developer;UI%2FUX+Designer;Building+Modern+Web+Experiences" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=SandaruMalshan96&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://img.shields.io/github/followers/SandaruMalshan96?label=Followers&style=social" />
+<img src="https://img.shields.io/github/stars/SandaruMalshan96?label=Stars&style=social" />
 </p>
 
 ---
 
-## 👨‍💻 UI/UX Development Specialist  
+# 👨‍💻 About Me
 
-I'm a **frontend-focused developer** passionate about creating **beautiful, intuitive, and performant user interfaces**. I bridge the gap between design and implementation, ensuring seamless digital experiences.
+💻 Passionate **Web Developer** focused on building modern and responsive web applications.
 
-- 🎯 **UI Development Focus:** Component Libraries, Design Systems, Responsive Web Apps  
-- 🛠️ **Expertise:** Advanced CSS, Animation, Accessibility (a11y), Performance Optimization  
-- 🌱 **Currently Mastering:**  
-  - Advanced React Patterns & State Management  
-  - Micro-frontend Architectures  
-  - WebGL & 3D Web Experiences  
-  - Design Token Implementation  
+🚀 I love creating **fast, beautiful, and scalable digital experiences**.
 
----
-
-## 🎨 Design & Development Stack  
-
-### 🖌️ **Design Tools**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,sketch,xd,illustrator,photoshop" />
-</p>
-
-### 💻 **Frontend Technologies**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,typescript,javascript" />
-</p>
-
-### 🎭 **Styling & Animation**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=css,tailwind,sass,styledcomponents,materialui,framer" />
-</p>
-
-### ⚙️ **Build & Dev Tools**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vite,webpack,npm,yarn,git,github,vercel,netlify" />
-</p>
+### 🔹 What I Do
+- 🌐 Build modern **websites & web apps**
+- 🎨 Create **UI/UX friendly interfaces**
+- ⚡ Optimize **performance & responsiveness**
+- 📈 Help businesses **grow online**
 
 ---
 
-## 📊 GitHub Stats & Contributions  
+# 🛠 Tech Stack
 
+### 🎨 Design
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SandaruMalshan96&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SandaruMalshan96&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,xd" />
 </p>
 
+### 💻 Frontend
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandaruMalshan96&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,typescript" />
+</p>
+
+### 🎭 UI & Styling
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap,materialui" />
+</p>
+
+### ⚙️ Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,npm" />
 </p>
 
 ---
 
-## 🚀 Featured UI Projects  
+# 📊 GitHub Analytics
 
-### 🔥 **Design Systems**
-- **Component Library** - Modular React component system with Storybook documentation
-- **Design Tokens** - Cross-platform design token implementation
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SandaruMalshan96&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SandaruMalshan96&theme=tokyonight&hide_border=true"/>
+</p>
 
-### 🎯 **Web Applications**
-- **E-commerce Dashboard** - Modern admin panel with real-time analytics
-- **Portfolio Showcase** - Interactive portfolio with 3D elements
-- **SaaS Platform** - Responsive B2B application with complex data visualization
-
-### ✨ **UI Experiments**
-- Micro-interactions & animation studies
-- Glassmorphism & Neumorphism implementations
-- Responsive layout patterns
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandaruMalshan96&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 📝 Recent Articles & Learnings  
+# 🧠 Currently Learning
 
 ```javascript
-// Current UI Development Focus:
-const currentFocus = {
-  architecture: ["Atomic Design", "Micro-frontends"],
-  performance: ["Core Web Vitals", "Bundle Optimization"],
-  accessibility: ["WCAG 2.1", "Screen Reader Compatibility"],
-  patterns: ["Compound Components", "Render Props", "Custom Hooks"],
-  testing: ["Jest", "React Testing Library", "Cypress"]
+const learning = {
+  frontend: ["Advanced React", "Next.js"],
+  backend: ["Node.js", "API Development"],
+  design: ["UI/UX Systems"],
+  performance: ["Core Web Vitals"]
 };
+````
+
+---
+
+# 🚀 Featured Projects
+
+### 🌐 Web Projects
+
+* Business Websites
+* Portfolio Websites
+* Landing Pages
+
+### 💻 Web Applications
+
+* Admin Dashboards
+* SaaS Platforms
+* E-commerce Systems
+
+---
+
+# 📈 GitHub Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SandaruMalshan96&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/SandaruMalshan96/SandaruMalshan96/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 📬 Connect With Me
+
+🌐 Portfolio – Coming Soon
+💼 LinkedIn – Add Your Link
+📧 Email – Add Your Email
+
+---
+
+⭐ **Thanks for visiting my profile!**
+
+```
+
+---
+
+## ⚡ How to Activate This (Important)
+
+1️⃣ Create a **new repository** named exactly:
+
+```
+
+SandaruMalshan96
+
+```
+
+2️⃣ Add a file:
+
+```
+
+README.md
+
