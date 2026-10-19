@@ -163,21 +163,75 @@ I work across different areas of technology and creativity.
 
 ---
 
-## 📈 GitHub Contribution Graph
+<!-- ========================================== -->
+<!--        GITHUB CONTRIBUTION GRAPH            -->
+<!-- ========================================== -->
+
+<h2 align="center">📊 GitHub Contribution Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SandaruMalshan96&theme=tokyo-night&hide_border=true" />
+  <a href="https://github.com/SandaruMalshan96">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=SandaruMalshan96&theme=github-compact&hide_border=true&area=true"
+      alt="Sandaru Malshan GitHub Contribution Graph"
+      width="100%"
+    />
+  </a>
 </p>
 
----
+<!-- ========================================== -->
+<!--             CONTRIBUTION SNAKE              -->
+<!-- ========================================== -->
 
-## 🐍 Contribution Snake
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://github.com/SandaruMalshan96/SandaruMalshan96/blob/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/SandaruMalshan96/SandaruMalshan96/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/SandaruMalshan96/SandaruMalshan96/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/SandaruMalshan96/SandaruMalshan96/output/github-contribution-grid-snake.svg"
+      width="100%"
+    />
+  </picture>
 </p>
 
----
+<!-- ========================================== -->
+<!--             GITHUB STATISTICS               -->
+<!-- ========================================== -->
+
+<h2 align="center">📈 GitHub Statistics</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SandaruMalshan96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    alt="GitHub Statistics"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandaruMalshan96&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=SandaruMalshan96&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+    width="70%"
+  />
+</p>
+
+
+
 
 ## 📬 Let's Connect
 
