@@ -1,254 +1,174 @@
-# 👋 Hi, I'm Sandaru Malshan
+<!-- ============================================================ -->
+<!--                      HEADER / HERO                           -->
+<!-- ============================================================ -->
 
-<h3 align="center">Software Engineer | Creative Designer | Digital Marketer | Author | Photographer</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0EA5E9,100:8B5CF6&height=220&section=header&text=Sandaru%20Malshan&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Technology%20Meets%20Creativity&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Software+Engineer;Full+Stack+Web+Developer;Graphic+Designer;Digital+Marketing+Professional;Author+%26+Creative+Writer;Photographer;Technology+Meets+Creativity" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SandaruMalshan96&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/SandaruMalshan96?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/SandaruMalshan96?label=Stars&style=social" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=45&lines=Software+Engineer;Full+Stack+Web+Developer;Creative+Designer+%26+Digital+Marketer;Author+%26+Photographer;Building+ideas+into+reality" alt="typing" />
 
----
+<br/>
 
-## 👨‍💻 About Me
+![Profile Views](https://komarev.com/ghpvc/?username=SandaruMalshan96&label=Profile%20Views&color=0ea5e9&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/SandaruMalshan96?style=for-the-badge&logo=github&color=8b5cf6&labelColor=0f172a)
+![Stars](https://img.shields.io/github/stars/SandaruMalshan96?style=for-the-badge&logo=github&color=0ea5e9&labelColor=0f172a)
 
-I'm **Sandaru Malshan**, a multidisciplinary creative professional from Sri Lanka, passionate about combining technology, creativity, communication, and storytelling.
+<br/>
 
-My work goes beyond writing code. I explore different creative fields, transforming ideas into digital products, visual experiences, marketing strategies, and written stories.
+[![Email](https://img.shields.io/badge/Email-sandarumalshan96@gmail.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a)](mailto:sandarumalshan96@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sandaru%20Malshan-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a)](https://www.linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-SandaruMalshan96-0ea5e9?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a)](https://github.com/SandaruMalshan96)
 
-- 💻 **Software Engineering** – Developing modern websites, web applications, and digital solutions.
-- 🎨 **Graphic Design** – Creating visual identities, branding, and engaging digital designs.
-- 📈 **Digital Marketing** – Building digital marketing strategies and helping brands grow online.
-- 📚 **Author & Writer** – Exploring ideas, human experiences, and storytelling through writing.
-- 📸 **Photography** – Capturing moments, perspectives, and visual stories.
+</div>
 
-**My Philosophy: Technology Meets Creativity.**
+<br/>
 
----
+## ✨ About Me
+
+> A multidisciplinary creative from **Sri Lanka**, blending **code, design, marketing and storytelling** to turn ideas into digital products, visual experiences and written stories.
+
+<table>
+  <tr>
+    <td width="20%" align="center"><h3>💻</h3><b>Software<br/>Engineering</b><br/><sub>Websites, web apps &amp; digital solutions</sub></td>
+    <td width="20%" align="center"><h3>🎨</h3><b>Graphic<br/>Design</b><br/><sub>Branding &amp; visual identities</sub></td>
+    <td width="20%" align="center"><h3>📈</h3><b>Digital<br/>Marketing</b><br/><sub>Strategies that grow brands</sub></td>
+    <td width="20%" align="center"><h3>📚</h3><b>Author &amp;<br/>Writer</b><br/><sub>Ideas, people &amp; stories</sub></td>
+    <td width="20%" align="center"><h3>📸</h3><b>Photo-<br/>graphy</b><br/><sub>Moments &amp; perspectives</sub></td>
+  </tr>
+</table>
+
+<br/>
 
 ## 🎓 Education
 
-- **Master of Information Technology** – University of Kelaniya
-- **B.Sc. (Special) in Business Information Systems** – University of Sri Jayewardenepura
-- **Diploma in Multimedia** – Wijeya Graphics
+| 🎓 Qualification | 🏛️ Institution |
+|:--|:--|
+| **Master of Information Technology** | University of Kelaniya |
+| **B.Sc. (Special) in Business Information Systems** | University of Sri Jayewardenepura |
+| **Diploma in Multimedia** | Wijeya Graphics |
 
----
+<br/>
 
-## 🛠️ Technologies & Creative Skills
+## 🛠️ Tech Stack
 
-### 💻 Programming & Development
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,react,nextjs,nodejs" />
-</p>
+**Languages & Frameworks**
 
-### 🎨 Design & Creative Tools
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs,nodejs&theme=dark" alt="dev" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,xd" />
-</p>
+**Design & Creative**
 
-### ⚡ UI & Styling
+<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,xd&theme=dark" alt="design" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap" />
-</p>
+**UI & Styling**
 
-### ⚙️ Development Tools & Platforms
+<img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap&theme=dark" alt="ui" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,npm" />
-</p>
+**Tools & Platforms**
 
-### 🚀 Other Areas of Expertise
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,npm&theme=dark" alt="tools" />
 
-- UI/UX Design
-- Responsive Web Design
-- Website Development
-- E-Commerce Development
-- Digital Branding
-- Social Media Marketing
-- Content Creation
-- Book Writing & Publishing
-- Photography & Visual Storytelling
+</div>
 
----
+<br/>
 
-## 📊 GitHub Analytics
+## 🚀 What I Build
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SandaruMalshan96&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SandaruMalshan96&theme=tokyonight&hide_border=true" />
-</p>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🌐 Web Development</h3>
+      <ul>
+        <li>Business Websites</li>
+        <li>Portfolio Websites</li>
+        <li>Landing Pages</li>
+        <li>E-Commerce Platforms</li>
+        <li>Travel &amp; Tourism Sites</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>💻 Software &amp; Apps</h3>
+      <ul>
+        <li>Admin Dashboards</li>
+        <li>Business Management Systems</li>
+        <li>SaaS Platforms</li>
+        <li>Custom Web Applications</li>
+        <li>Digital Solutions</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🎨 Creative Projects</h3>
+      <ul>
+        <li>Brand Identity Design</li>
+        <li>Social Media Campaigns</li>
+        <li>Digital Marketing</li>
+        <li>Book Cover &amp; Publication Design</li>
+        <li>Photography &amp; Visual Content</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandaruMalshan96&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
+<br/>
 
 ## 🧠 Currently Exploring
 
-```javascript
+```ts
 const sandaru = {
   name: "Sandaru Malshan",
-
-  professions: [
-    "Software Engineer",
-    "Graphic Designer",
-    "Digital Marketer",
-    "Author",
-    "Photographer"
-  ],
-
-  development: [
-    "Advanced React",
-    "Next.js",
-    "TypeScript",
-    "Node.js",
-    "API Development"
-  ],
-
-  creative: [
-    "UI/UX Design",
-    "Visual Branding",
-    "Digital Storytelling",
-    "Photography"
-  ],
-
-  interests: [
-    "Technology",
-    "Human Psychology",
-    "Creative Thinking",
-    "Writing",
-    "Innovation"
-  ],
-
+  roles: ["Software Engineer", "Designer", "Digital Marketer", "Author", "Photographer"],
+  learning: ["Advanced React", "Next.js", "TypeScript", "Node.js", "API Development"],
+  creative: ["UI/UX Design", "Visual Branding", "Digital Storytelling", "Photography"],
+  interests: ["Technology", "Human Psychology", "Creative Thinking", "Writing", "Innovation"],
   philosophy: "Technology Meets Creativity."
-};
+} as const;
 
 console.log("Building ideas into reality 🚀");
 ```
 
----
+<br/>
 
-## 🚀 Featured Projects
+## 📊 GitHub Stats
 
-I work across different areas of technology and creativity.
+<div align="center">
 
-### 🌐 Web Development
-- Business Websites
-- Personal Portfolio Websites
-- Landing Pages
-- E-Commerce Platforms
-- Travel & Tourism Websites
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SandaruMalshan96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0f172a" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandaruMalshan96&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="langs" />
 
-### 💻 Software & Web Applications
-- Admin Dashboards
-- Business Management Systems
-- SaaS Platforms
-- Custom Web Applications
-- Digital Solutions
+<br/>
 
-### 🎨 Creative & Digital Projects
-- Brand Identity Design
-- Social Media Campaigns
-- Digital Marketing Projects
-- Book Cover & Publication Design
-- Photography & Visual Content
+<img width="70%" src="https://streak-stats.demolab.com?user=SandaruMalshan96&theme=tokyonight&hide_border=true&background=0f172a" alt="streak" />
 
----
+<br/><br/>
 
-<!-- ========================================== -->
-<!--        GITHUB CONTRIBUTION GRAPH            -->
-<!-- ========================================== -->
+<a href="https://github.com/SandaruMalshan96">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SandaruMalshan96&theme=tokyo-night&hide_border=true&area=true&bg_color=0f172a" alt="activity graph" />
+</a>
 
-<h2 align="center">📊 GitHub Contribution Activity</h2>
+</div>
 
-<p align="center">
-  <a href="https://github.com/SandaruMalshan96">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=SandaruMalshan96&theme=github-compact&hide_border=true&area=true"
-      alt="Sandaru Malshan GitHub Contribution Graph"
-      width="100%"
-    />
-  </a>
-</p>
+<br/>
 
-<!-- ========================================== -->
-<!--             CONTRIBUTION SNAKE              -->
-<!-- ========================================== -->
+## 🐍 Contribution Snake
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SandaruMalshan96/SandaruMalshan96/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SandaruMalshan96/SandaruMalshan96/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/SandaruMalshan96/SandaruMalshan96/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/SandaruMalshan96/SandaruMalshan96/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/SandaruMalshan96/SandaruMalshan96/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/SandaruMalshan96/SandaruMalshan96/output/github-contribution-grid-snake.svg"
-      width="100%"
-    />
-  </picture>
-</p>
+<br/>
 
-<!-- ========================================== -->
-<!--             GITHUB STATISTICS               -->
-<!-- ========================================== -->
+<div align="center">
 
-<h2 align="center">📈 GitHub Statistics</h2>
+### 💬 Let's create something meaningful together
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=SandaruMalshan96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    alt="GitHub Statistics"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandaruMalshan96&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-    height="180"
-  />
-</p>
+**Ideas · Creativity · Technology · Innovation**
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=SandaruMalshan96&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-    width="70%"
-  />
-</p>
+<sub>⭐ Thanks for visiting my profile!</sub>
 
+</div>
 
-
-
-## 📬 Let's Connect
-
-<p align="left">
-  📧 <strong>Email:</strong> sandarumalshan96@gmail.com
-  <br/>
-  💼 <strong>LinkedIn:</strong> Sandaru Malshan
-  <br/>
-  🌐 <strong>GitHub:</strong> <a href="https://github.com/SandaruMalshan96">SandaruMalshan96</a>
-</p>
-
----
-
-<p align="center">
-  <strong>Ideas. Creativity. Technology. Innovation.</strong>
-  <br/><br/>
-  ⭐ Thanks for visiting my GitHub profile!
-  <br/>
-  <i>Let's create something meaningful together.</i>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:0EA5E9,100:0F172A&height=120&section=footer" width="100%" alt="footer" />
