@@ -20,7 +20,7 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-sandarumalshan96@gmail.com-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A)](mailto:sandarumalshan96@gmail.com)
+[![Email Me](https://img.shields.io/badge/Email%20Me-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A)](mailto:sandarumalshan96@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sandaru%20Malshan-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A)](https://www.linkedin.com/in/YOUR-HANDLE)
 [![GitHub](https://img.shields.io/badge/GitHub-SandaruMalshan96-0EA5E9?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A)](https://github.com/SandaruMalshan96)
 
@@ -33,9 +33,9 @@
 <!-- ============================================================ -->
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" width="28" alt="sparkles" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="28" alt="sparkles" />
   About Me
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" width="28" alt="sparkles" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="28" alt="sparkles" />
 </h2>
 
 <p align="center">
